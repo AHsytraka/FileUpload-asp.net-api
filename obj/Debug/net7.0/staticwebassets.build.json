@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "dLq5oX0Yya1mS5kMQLIRIMGUBg1usFyNHzIzyHiR0n4=",
+  "Source": "File-Upload",
+  "BasePath": "_content/File-Upload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "File-Upload\\wwwroot",
+      "Source": "File-Upload",
+      "ContentRoot": "C:\\Users\\Ahsy\\Documents\\projet\\Package integration\\File-Upload\\wwwroot\\",
+      "BasePath": "_content/File-Upload",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
